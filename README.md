@@ -14,7 +14,8 @@ I haven't uploaded the code to this Git repository, but you can see it by viewin
 
 ## What is it?
 - Who has mined the hardest will have their text shown on the website.
-- There is also a small wall of pixels. Each pixel can be mined. And it's possible to "vote" on the best color.
+- There is also a small wall of pixels. Each pixel can be mined.
+- It's also possible to "vote" (mine) on the best color among four (third screenshot).
 - Proof of Work with basic gossip over P2P (STUN/TURN)
 - e.g. for text: the smallest sha256(nonce + text) value seen in P2P network should be displayed on top of this page *[1]*
 

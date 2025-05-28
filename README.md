@@ -13,12 +13,12 @@ You can see the code by viewing the source. It's JavaScript.
 - Proof of Work
 - Text of the smallest sha256(nonce + text) value seen in P2P network should be displayed on top of this page *[1]*
 
+*[1] nonce placement could be improved*
+
 ## Current State
-Maintaining STUN/TURN etc. is annoying so I didn't do it. The best submissions (best hashes) have been cached.
-
-----
-
-*[1] not the most ideal nonce placement*
+- People found some nice hashes. Best hash of text: ``00000000000003f5b562d3feca28eadb16ef1e2f051550344f62f1848e3d3dc6``
+- It was a fun experiment. There were more ideas for it, but the project hasn't been worked on for a while.
+- Maintaining STUN/TURN etc. was annoying so I don't do it anymore. The best submissions (best hashes) have been cached.
 
 
 

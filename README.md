@@ -2,14 +2,19 @@
 *or "SHA256 Battle"*
 
 ----
-
 Project + code: https://tropical.pages.dev/pow/
 
 You can see the code by viewing the source. It's JavaScript.
 
-## What is it
+----
+## Screenshots:
+|<img width="540" alt="image" src="https://github.com/user-attachments/assets/ab81ab5f-e26f-494e-94ad-ddf4ba3d59ea" />|<img width="506" alt="image" src="https://github.com/user-attachments/assets/e3c5e396-b0c7-4114-9d8f-be1a97b137c0" />|
+|---|---|
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/a53da834-aa2f-407b-8063-19ab83bf50ca" />
+
+## What is it?
 - Who has mined the hardest will have their text shown on the website.
-- There is also a small wall of pixels. Each pixel can be mined.
+- There is also a small wall of pixels. Each pixel can be mined. And it's possible to "vote" on the best color.
 - Proof of Work with basic gossip over P2P (STUN/TURN)
 - e.g. for text: the smallest sha256(nonce + text) value seen in P2P network should be displayed on top of this page *[1]*
 

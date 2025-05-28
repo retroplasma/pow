@@ -10,8 +10,8 @@ You can see the code by viewing the source. It's JavaScript.
 ## What is it
 - Who has mined the hardest will have their text shown on the website.
 - There is also a small wall of pixels. Each pixel can be mined.
-- Proof of Work
-- Text of the smallest sha256(nonce + text) value seen in P2P network should be displayed on top of this page *[1]*
+- Proof of Work with basic gossip over P2P (STUN/TURN)
+- e.g. for text: the smallest sha256(nonce + text) value seen in P2P network should be displayed on top of this page *[1]*
 
 *[1] nonce placement could be improved*
 

@@ -4,7 +4,7 @@
 ----
 Project + code: https://tropical.pages.dev/pow/
 
-I haven't uploaded the code here but you can see it by viewing the source of the webpage linked above. It's JavaScript.
+I haven't uploaded the code in this Git repository, but you can see it by viewing the source of the webpage linked above. It's JavaScript.
 
 ----
 ## Screenshots:

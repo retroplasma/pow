@@ -13,7 +13,7 @@ I haven't uploaded the code to this Git repository, but you can see it by viewin
 <img width="575" alt="image" src="https://github.com/user-attachments/assets/a53da834-aa2f-407b-8063-19ab83bf50ca" />
 
 ## What is it?
-- Who has mined the hardest will have their text shown on the website.
+- The person who has mined the hardest will have their text shown on the website.
 - There is also a small wall of pixels. Each pixel can be mined.
 - It's also possible to "vote" (mine) on the best color among four (third screenshot).
 - Proof of Work with basic gossip over P2P (STUN/TURN)

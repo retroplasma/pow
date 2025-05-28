@@ -21,7 +21,7 @@ I haven't uploaded the code to this Git repository, but you can see it by viewin
 
 *[1] nonce placement could be improved*
 
-There idea has been to explore what else Proof of Work can be used for besides coins.
+The idea has been to explore what else Proof of Work can be used for besides coins.
 
 ## Current State
 - People found some nice hashes. Best hash of text: ``00000000000003f5b562d3feca28eadb16ef1e2f051550344f62f1848e3d3dc6``
